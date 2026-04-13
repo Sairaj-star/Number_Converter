@@ -11,27 +11,4 @@ A clean, dark-themed number system converter that runs entirely in the browser. 
 - Input validation with error messages
 - Fully responsive design
 
-## 🚀 Deploy on GitHub Pages
-
-1. Fork or upload this repo to GitHub
-2. Go to **Settings → Pages**
-3. Set source to `main` branch → `/ (root)`
-4. Your site will be live at `https://yourusername.github.io/repo-name`
-
-## 🛠 Tech Stack
-
-- Pure HTML, CSS, JavaScript
-- No frameworks, no dependencies, no build step
-- Single file — just `index.html`
-
-## 📁 Project Structure
-
-```
-number-converter/
-└── index.html      ← entire app in one file
-└── README.md
-```
-
-## 📸 Preview
-
-Open `index.html` directly in your browser — it works offline too!
+This is a new project of mine Enjoy!!
